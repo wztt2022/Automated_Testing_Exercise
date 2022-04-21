@@ -1,0 +1,7 @@
+page1:
+  google_search_url: https://www.google.com.hk/imghp?hl=zh-CN&ogbl&hl=zh-CN&sourceid=cnhp
+  img_url: https://img.win3000.com/m00/50/5c/9db53248acd950c611c6db3f64633b1e.jpg
+  search_by_image_button: //*[@id="sbtc"]/div/div[3]/div[2]/span
+  search_button: /html/body/div[1]/div[3]/div/div[2]/form/div[1]/table/tbody/tr/td[2]/input
+  result_title: /html/body/div[2]/c-wiz/div[2]/div[2]/c-wiz[2]/scrolling-carousel/div[1]/span/span[1]/div/a/span
+  target_img_url: /html/body/div[2]/c-wiz/div[2]/div[2]/c-wiz[2]/scrolling-carousel/div[1]/span/span[1]/div/a/img
